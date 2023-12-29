@@ -1,0 +1,42 @@
+.content {
+background-color: dimgray;
+}
+
+.main {    width: 1440px;
+    /* Ширина контейнера, може бути вказана в пікселях, відсотках і т.д. */
+    margin:0 auto;
+    /* Вирівнювання по центру на сторінці */
+    padding: 20px;
+    /* Відступи всередині контейнера */
+    background-color: rgba(201,16, 225, 0.5);
+    /* Колір фону контейнера */
+    border: 1px solid #ccc;
+    /* Обрамлення контейнера */
+    box-sizing: border-box;
+
+}
+
+.h1 {display: flex;
+    justify-content: center;
+    align-items: center;}
+
+.h2 {
+    display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+.h11 {
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+
+.img {
+    
+}
+.image{
+    display: flex;
+        align-items: center;
+        /* Вирівнює елементи по вертикалі */
+        justify-content: center;
+}
